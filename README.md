@@ -18,7 +18,8 @@ Technologies:
         pop-up for writing a new email, and by using the information received from the 
         user will write and send the email
 
-    2. Starting up
+2. Starting up
+   
        - In .env (environment file) provide youir google mail credentials
        - Start the program and follow questions in command line (
            Write reviecer email:
